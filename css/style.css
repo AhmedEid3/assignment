@@ -1433,13 +1433,13 @@ ul.footer_bottom-list li a:hover{
 	text-decoration:none;
 }
 .copy {
-	float:right;
 	margin-top: 5px;
 }
 .copy p{
 	color:#66CBE1;
 	font-size:1em;
 	font-weight:600;
+	text-align: center;
 }
 .copy p a{
 	color:#fff;
